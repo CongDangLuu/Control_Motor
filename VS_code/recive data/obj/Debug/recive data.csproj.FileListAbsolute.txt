@@ -1,0 +1,106 @@
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\recive data.exe.config
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\recive data.exe
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\recive data.pdb
+C:\Users\DELL\source\repos\recive data\recive data\obj\Debug\recive data.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\recive data\recive data\obj\Debug\recive_data.Form1.resources
+C:\Users\DELL\source\repos\recive data\recive data\obj\Debug\recive_data.Properties.Resources.resources
+C:\Users\DELL\source\repos\recive data\recive data\obj\Debug\recive data.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\recive data\recive data\obj\Debug\recive data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\recive data\recive data\obj\Debug\recive data.exe
+C:\Users\DELL\source\repos\recive data\recive data\obj\Debug\recive data.pdb
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\ZedGraph.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\ZedGraph.xml
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\DELL\source\repos\recive data\recive data\obj\Debug\recive data.csproj.CopyComplete
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\recive data.exe.config
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\recive data.exe
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\recive data.pdb
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\ZedGraph.xml
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\obj\Debug\recive data.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\obj\Debug\recive_data.Form1.resources
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\obj\Debug\recive_data.Properties.Resources.resources
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\obj\Debug\recive data.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\obj\Debug\recive data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\obj\Debug\recive data.csproj.CopyComplete
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\obj\Debug\recive data.exe
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\obj\Debug\recive data.pdb
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data visual code\recive data\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\recive data.exe.config
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\recive data.exe
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\recive data.pdb
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\ZedGraph.xml
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\obj\Debug\recive data.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\obj\Debug\recive_data.Form1.resources
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\obj\Debug\recive_data.Properties.Resources.resources
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\obj\Debug\recive data.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\obj\Debug\recive data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\obj\Debug\recive data.csproj.CopyComplete
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\obj\Debug\recive data.exe
+C:\Users\DELL\Documents\STM32 Code\HTDKN___13\Recive data_VS Code\recive data\obj\Debug\recive data.pdb
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\recive data.exe.config
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\recive data.exe
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\recive data.pdb
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\ZedGraph.xml
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\obj\Debug\recive data.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\obj\Debug\recive_data.Form1.resources
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\obj\Debug\recive_data.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\obj\Debug\recive data.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\obj\Debug\recive data.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\obj\Debug\recive data.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\obj\Debug\recive data.exe
+C:\Users\ADMIN\Desktop\nhung\BTL_chuong4\BTL_chuong4\VS_code\recive data\obj\Debug\recive data.pdb
